@@ -6,4 +6,4 @@ Modelling random variables using python
 
 Under the supervision of Dr. Lamia Alrefaai
 
-Contributors: Yahia Mohamed & Hazem Abuelanin 
+***GROUP 1***
